@@ -11,9 +11,7 @@ header {
     padding: 1rem;
     text-align: center;
 }
-main h2 {
-place-items: center; 
-}
+
 nav {
     display: flex;
     justify-content: center;
