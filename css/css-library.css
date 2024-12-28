@@ -18,7 +18,7 @@ nav {
     padding: 1rem;
 }
 nav a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     margin: 0 1rem;
 }
@@ -36,4 +36,27 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+#head2 {
+    background-color: #f7cb02; 
+    color: #1a3263;
+}
+#navrugby {
+    display: flex;
+    justify-content: center;
+    background-color: #274c96; 
+    color: #f7cb02;
+    padding: 1rem;
+}
+nav b {
+    color:#f7cb02;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+nav b:hover {
+    text-decoration: underline;
+}  
+#head3 {
+    background-color: #1a3263; 
+    color: #f7cb02;
 }
