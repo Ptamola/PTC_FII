@@ -33,10 +33,9 @@ footer {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 1rem;
-    width: 100%; /* Asegura que ocupe todo el ancho */
+    width: 100%;
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
+    place-items: center; 
 }
 #head2 {
     background-color: #f7cb02; 
