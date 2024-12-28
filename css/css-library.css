@@ -32,9 +32,10 @@ footer {
     background-color: #ff6600;
     color: rgb(0, 0, 0);
     text-align: center;
-    padding: 1rem;
+    padding: 0 1rem;
     bottom: 0;
     width: 100%;
+    display: flex;
 }
 #head2 {
     background-color: #f7cb02; 
