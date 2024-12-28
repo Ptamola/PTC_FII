@@ -11,6 +11,13 @@ header {
     padding: 1rem;
     text-align: center;
 }
+main h2 {
+    display: flex; /* Activa el modelo de Flexbox */
+    justify-content: center; /* Centra el texto horizontalmente */
+    align-items: center; /* Centra el texto verticalmente */
+    height: 100vh; /* Asegura que el contenedor tenga la altura completa de la ventana */
+    margin: 0; /* Elimina márgenes adicionales */
+}
 nav {
     display: flex;
     justify-content: center;
