@@ -35,7 +35,8 @@ footer {
     padding: 1rem;
     width: 100%; /* Asegura que ocupe todo el ancho */
     display: flex;
-    justify-content: center;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
 }
 #head2 {
     background-color: #f7cb02; 
