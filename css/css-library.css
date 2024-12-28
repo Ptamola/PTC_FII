@@ -13,7 +13,6 @@ header {
 }
 main h2 {
 place-items: center; 
-margin: 0; /* Elimina márgenes adicionales */
 }
 nav {
     display: flex;
