@@ -36,6 +36,10 @@ main {
     bottom: 0;
     width: 100%;
 }
+main#head2 {
+  background-color: #f7cb02; 
+    color: #1a3263;   
+}
 }
 #head2 {
     background-color: #f7cb02; 
