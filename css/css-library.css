@@ -31,11 +31,14 @@ main {
 footer {
     background-color: #ff6600;
     color: rgb(0, 0, 0);
-    text-align: center;
     padding: 1rem;
     width: 100%;
     display: flex;
-    place-items: center; 
+    place-items: center;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
 #head2 {
     background-color: #f7cb02; 
