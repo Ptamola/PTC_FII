@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
+    line-height: 1.5;
 }
 header {
     background-color: #ff6600;
@@ -28,17 +29,15 @@ nav a:hover {
 main {
     padding: 2rem;
 }
-footer {
+   footer {
     background-color: #ff6600;
-    color: rgb(0, 0, 0);
-    padding: 1rem;
-    width: 100%;
-    display: flex;
-    place-items: center;
+    color: #fff;
     text-align: center;
+    padding: 1rem;
     position: relative;
     bottom: 0;
     width: 100%;
+}
 }
 #head2 {
     background-color: #f7cb02; 
