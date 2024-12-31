@@ -5,5 +5,6 @@ En la segunda carperta encontramos todas las imagenes que se utilizaron para la 
 En la carpeta llamada public encontramos cada seccion de la pagina web y fuera esta la sección principal llamada index.html y un README.  
 En Index.html encontramos la pagina principal en la cual esta la información prinicpal de lo que se encotrara en la web y el navegador para poder entrar en el resto de secciones.  
 En Public encontramos About.html, es la seccion donde hablo sobre mi, ahí hay una descripcion acerca de mí, un par de fotos y mis redes sociales  
-En contact.html
+En contact.html encontraras una forma de contactar conmigo, donde podras poner tu nombre, tu email, El asunto del que quiere hablar y agreager un mensaje.  
+En degree.html encontraras Una descripcion sobre el Grado de Ingeniería Informática 
 
