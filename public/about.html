@@ -5,6 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pedro Tamola Fundamentos</title>
+     <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between; 
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .image-container img {
+            width: 45%;
+            height: auto;
+            display: block;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -26,14 +39,17 @@
 <img src="/images/Captura de pantalla 2024-12-31 120006.png" alt="Currículum Vitae" style="width: 100%; max-width: 500px; height: auto; margin: 20px 0; display: block;">
 <h3>Fotos</h3>
 
-    <figure>
-        <img src="/images/Imagen de WhatsApp 2024-11-23 a las 07.15.50_569bbbc1.jpg" alt="Currículum Vitae" style="width: 100%; max-width: 500px; height: auto; margin: 20px 0; display: block; left: 0;">
-       <figcaption style="text-align: center;"><b>Jornada sub 6</b></figcaption>
-    </figure>
-    <figure>
-        <img src="/images/Imagen de WhatsApp 2024-12-31 a las 12.32.15_c58dc2cc.jpg" alt="Currículum Vitae" style="width: 100%; max-width: 500px; height: auto; margin: 20px 0; display: block; right: 0;">
-    <figcaption style="text-align: center;"><b>Ruta con el grupo socut Kimball 110 en los Picos de Europa</b></figcaption>
-    </figure>
+   <div class="image-container">
+            <figure>
+                <img src="/images/Imagen de WhatsApp 2024-11-23 a las 07.15.50_569bbbc1.jpg" alt="Jornada sub 6" style="width: 100%; height: auto;">
+                <figcaption>Jornada sub 6.</figcaption>
+            </figure>
+            <figure>
+                <img src="/images/Imagen de WhatsApp 2024-12-31 a las 12.32.15_c58dc2cc.jpg" alt="Ruta con el grupo socut Kimball 110 en los Picos de Europa" style="width: 100%; height: auto;">
+                <figcaption>Ruta con el grupo socut Kimball 110 en los Picos de Europa.</figcaption>
+            </figure>
+        </div>
+        
         <h3>Redes</h3>
          <b><a href= https://www.instagram.com/pedro_tam28/ ">Instagram</a></b>
          <b><a  href= https://github.com/Ptamola">Github</a></b>
