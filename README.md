@@ -9,4 +9,8 @@ En contact.html encontrarás una forma de contactar conmigo, donde podrás poner
 En degree.html encontrarás una descripción sobre el Grado de Ingeniería Informática y las diferentes asignaturas impartidas durante la duración completa de este. Habrá un link hacia fii.html, el cual te llevará a un apartado dedicado exclusivamente a aportar más información sobre la asignatura de Fundamentos de Ingeniería Informática.  
 En net.html encontrarás una tabla con los nombres y links de páginas de otros compañeros.   
 Finalmente, en topic.net encontrarás información sobre mi equipo de rugby CRC.  
-
+  
+Problemas durante el desarrollo  
+En GitHub, al editar, tardaba unos 20 segundos en actualizar la web y realentizaba el proceso de editar cosas pequeñas en la web.  
+Para solucionar eso, empecé usando otra aplicación, pero al intentar mover todo a GitHub era más complicado. 
+Preferí usar menos CSS y directamente embellecer textos e imágenes desde HTML.
